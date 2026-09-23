@@ -1,0 +1,194 @@
+{
+  "health": [
+    {
+      "id": "who-vaccination-1",
+      "text": "Vaccination is a safe and effective way of protecting people against harmful diseases by using the body's natural defenses to build resistance to specific infections.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination"
+    },
+    {
+      "id": "who-vaccination-2",
+      "text": "Vaccines train the immune system to create antibodies. Vaccines use killed or weakened forms of germs or other components so that they can stimulate an immune response without causing the disease itself.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-what-is-vaccination"
+    },
+    {
+      "id": "who-vaccination-3",
+      "text": "WHO states that immunization currently prevents millions of deaths every year from diseases including diphtheria, tetanus, pertussis, influenza and measles.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/health-topics/vaccines-and-immunization"
+    },
+    {
+      "id": "who-vaccine-safety-1",
+      "text": "Before vaccines are introduced in a country, they undergo multiple phases of clinical testing and are evaluated by health authorities for safety and efficacy.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization-vaccine-safety"
+    },
+    {
+      "id": "who-amr-1",
+      "text": "Antimicrobial resistance occurs when bacteria, viruses, fungi or parasites no longer respond to antimicrobial medicines, making infections harder or sometimes impossible to treat.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+    },
+    {
+      "id": "who-depression-1",
+      "text": "Depression is a common mental disorder that can involve depressed mood or loss of pleasure or interest in activities for long periods and has effective treatments.",
+      "source_name": "WHO",
+      "source_url": "https://www.who.int/en/news-room/fact-sheets/detail/depression"
+    }
+  ],
+  "climate": [
+    {
+      "id": "ipcc-warming-1",
+      "text": "The IPCC states that human activities, principally through greenhouse gas emissions, have unequivocally caused global warming.",
+      "source_name": "IPCC",
+      "source_url": "https://www.ipcc.ch/report/ar6/syr/longer-report/"
+    },
+    {
+      "id": "ipcc-warming-2",
+      "text": "Global surface temperature reached about 1.1°C above the 1850–1900 average during 2011–2020, according to the IPCC Sixth Assessment Synthesis Report.",
+      "source_name": "IPCC",
+      "source_url": "https://www.ipcc.ch/report/ar6/syr/longer-report/"
+    },
+    {
+      "id": "ipcc-impacts-1",
+      "text": "Human-caused climate change is already affecting many weather and climate extremes in every region of the world.",
+      "source_name": "IPCC",
+      "source_url": "https://report.ipcc.ch/ar6syr/headline.html"
+    },
+    {
+      "id": "ipcc-impacts-2",
+      "text": "The IPCC reports that climate change has contributed to widespread adverse impacts on food and water security, human health, economies and societies.",
+      "source_name": "IPCC",
+      "source_url": "https://www.ipcc.ch/report/ar6/syr/longer-report/"
+    },
+    {
+      "id": "ipcc-emissions-1",
+      "text": "Global greenhouse gas emissions continued to increase during 2010–2019, with contributions varying across regions, sectors and groups.",
+      "source_name": "IPCC",
+      "source_url": "https://report.ipcc.ch/ar6syr/headline.html"
+    }
+  ],
+  "science": [
+    {
+      "id": "nasa-moon-1",
+      "text": "Earth's Moon is its only natural satellite and is about 385,000 kilometers from Earth on average.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "id": "nasa-moon-2",
+      "text": "Earth's Moon is tidally locked with Earth, so its rotation and orbital periods are synchronized and we generally see the same lunar hemisphere from Earth.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "id": "nasa-moon-3",
+      "text": "NASA states that the Moon likely formed after a Mars-sized body collided with the early Earth several billion years ago and debris accumulated to form the Moon.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/moon/facts/"
+    },
+    {
+      "id": "nasa-mars-1",
+      "text": "Mars is the fourth planet from the Sun and has a thin atmosphere, polar ice caps, extinct volcanoes, canyons and weather.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/mars/facts/"
+    },
+    {
+      "id": "nasa-mars-2",
+      "text": "Mars has two known moons, Phobos and Deimos, both discovered in 1877.",
+      "source_name": "NASA",
+      "source_url": "https://science.nasa.gov/mars/moons/facts/"
+    },
+    {
+      "id": "nasa-artemis-1",
+      "text": "NASA's Artemis program is intended to expand exploration of the Moon and support future human missions to Mars while conducting scientific research.",
+      "source_name": "NASA",
+      "source_url": "https://www.nasa.gov/humans-in-space/artemis/"
+    }
+  ],
+  "education": [
+    {
+      "id": "unesco-mil-1",
+      "text": "UNESCO describes Media and Information Literacy as skills that enable people to critically access, analyze, evaluate and create content across diverse platforms.",
+      "source_name": "UNESCO",
+      "source_url": "https://www.unesco.org/en/media-information-literacy"
+    },
+    {
+      "id": "unesco-mil-2",
+      "text": "Media and Information Literacy helps people discern bias, recognize misinformation, resist hate speech and participate more effectively in civic life.",
+      "source_name": "UNESCO",
+      "source_url": "https://www.unesco.org/en/query-list/m/media-literacy"
+    },
+    {
+      "id": "unesco-mil-3",
+      "text": "UNESCO identifies misinformation, disinformation, hate speech and declining trust in media and digital technologies as challenges that Media and Information Literacy can help address.",
+      "source_name": "UNESCO",
+      "source_url": "https://www.unesco.org/en/media-information-literacy"
+    },
+    {
+      "id": "unesco-mil-4",
+      "text": "UNESCO's Media and Information Literacy work emphasizes critical thinking, ethical awareness and responsible navigation of digital environments, including in the context of generative AI.",
+      "source_name": "UNESCO",
+      "source_url": "https://www.unesco.org/en/articles/media-and-information-literacy-and-digital-competencies"
+    }
+  ],
+  "human_rights": [
+    {
+      "id": "un-udhr-1",
+      "text": "The Universal Declaration of Human Rights was proclaimed by the United Nations General Assembly on 10 December 1948 as a common standard of achievement for all peoples and nations.",
+      "source_name": "United Nations",
+      "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights/"
+    },
+    {
+      "id": "un-udhr-2",
+      "text": "Article 1 of the Universal Declaration of Human Rights states that all human beings are born free and equal in dignity and rights.",
+      "source_name": "United Nations",
+      "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights/"
+    },
+    {
+      "id": "un-udhr-3",
+      "text": "Article 26 of the Universal Declaration of Human Rights recognizes the right to education and states that elementary and fundamental education should be free and compulsory.",
+      "source_name": "United Nations",
+      "source_url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights/"
+    },
+    {
+      "id": "unicef-child-rights-1",
+      "text": "The United Nations Convention on the Rights of the Child was adopted in 1989 and is described by UNICEF as the most widely ratified human rights treaty in history.",
+      "source_name": "UNICEF",
+      "source_url": "https://www.unicef.org/child-rights-convention"
+    }
+  ],
+  "history": [
+    {
+      "id": "india-independence-1",
+      "text": "India became independent from British rule on 15 August 1947.",
+      "source_name": "Government of India",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=26527"
+    },
+    {
+      "id": "india-flag-1",
+      "text": "India's national flag was adopted in its present form by the Constituent Assembly on 22 July 1947, shortly before independence.",
+      "source_name": "National Portal of India",
+      "source_url": "https://knowindia.india.gov.in/my-india-my-pride/indian-tricolor.php"
+    },
+    {
+      "id": "india-flag-2",
+      "text": "The Indian national flag served as the flag of the Dominion of India from 15 August 1947 until 26 January 1950 and continued as the flag of the Republic of India thereafter.",
+      "source_name": "National Portal of India",
+      "source_url": "https://knowindia.india.gov.in/my-india-my-pride/indian-tricolor.php"
+    },
+    {
+      "id": "india-independence-2",
+      "text": "Government of India material states that India became independent on 15 August 1947 and that the first coinage of the Republic of India was introduced in the Anna Series on 15 August 1950.",
+      "source_name": "Government of India",
+      "source_url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=26527"
+    },
+    {
+      "id": "unesco-heritage-history-1",
+      "text": "The UNESCO World Heritage Convention was established in 1972 to recognize and protect cultural and natural heritage of outstanding universal value.",
+      "source_name": "UNESCO",
+      "source_url": "https://whc.unesco.org/en/convention/"
+    }
+  ]
+}
